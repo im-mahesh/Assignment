@@ -38,7 +38,7 @@ class App extends Component {
           <Sidebar.Pushable as={Segment} style={{ minHeight: '100vh', display: 'flex', flexFlow: 'column nowrap' }}>
             <Sidebar as={Menu} animation='push' width='thin' visible={true} icon='labeled' vertical>
               <Link to='/'>
-                <Menu.Item name='home' text='sdd'>
+                <Menu.Item name='home' text='sddd'>
                   <Icon name='home' />
                   {/* Home */}
                 </Menu.Item>
