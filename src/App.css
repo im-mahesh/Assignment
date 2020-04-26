@@ -1,5 +1,18 @@
 /* @import '~antd/dist/antd.css'; */
 
+.ui.sidebar.menu .item:hover {
+  background-color: #929292e6 !important;
+}
+
+.ui.sidebar.menu .item {
+  padding-top:15px !important;
+  padding-bottom:15px !important;
+}
+
+.item .active {
+  background-color: #929292e6 !important;
+}
+
 #components-layout-demo-top-side-2 .logo {
   width: 120px;
   height: 31px;
